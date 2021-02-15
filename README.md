@@ -26,7 +26,7 @@ This will type your password and press "Allow" for each exported item.
 
 You need to give this script permissions to control your computer. Feel free to revoke them as soon as the execution completes.
 
-Go to System Preferences -> Security & Privacy -> Privacy tab -> Accessibility and add Script Editor to the list, making sure the checkbox next to it is checked.
+Go to `System Preferences -> Security & Privacy -> Privacy tab -> Accessibility` and add Script Editor to the list, making sure the checkbox next to it is checked.
 
 # Export keychain to a file
 
